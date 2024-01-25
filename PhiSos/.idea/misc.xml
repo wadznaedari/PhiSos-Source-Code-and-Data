@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.307" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.307" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.346" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.307" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.307" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.307" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/drawable/ic_launcher_background.xml" value="0.307" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/drawable/ic_photo_camera.xml" value="0.307" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/drawable/ic_video_stable.xml" value="0.307" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/layout/activity_about_us.xml" value="0.30434782608695654" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/layout/activity_capture_money2.xml" value="0.3392210144927536" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/layout/activity_capture_money3.xml" value="0.3392210144927536" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/layout/activity_caputer_money.xml" value="0.2928377153218495" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/layout/activity_gesture.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/layout/activity_main.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/layout/activity_open_camera.xml" value="0.3392210144927536" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/layout/activity_open_camera2.xml" value="0.3392210144927536" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/layout/activity_open_camera3.xml" value="0.3392210144927536" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/layout/activity_splash_screen.xml" value="0.30434782608695654" />
+        <entry key="..\:/Users/gang/AndroidStudioProjects/PhiSos/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
